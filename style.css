@@ -118,3 +118,25 @@ h3 {
     width: 200px;
     height: 150px;
 }
+
+.iframe-container {
+    width: 40%;
+  }
+  
+.form input {
+    border-style: none;
+    border-bottom: #000 solid 1px;
+    height: 30px;
+    width: 150px;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+  }
+  
+  .table-data {
+    padding-left: 10px;
+  }
+  
+  .table-data #message {
+    width: 350px;
+  }
